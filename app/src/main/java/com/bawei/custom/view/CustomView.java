@@ -9,7 +9,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 /**
- * 1. 类的用途 自定义控件
+ * 1. 类的用途 自定义控件直正是
  * 2. @author forever
  * 3. @date 2017/3/29 09:24
  */
